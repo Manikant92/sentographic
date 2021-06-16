@@ -1,0 +1,1 @@
+web: gunicorn sentographic.wsgi --timeout 120 --log-file -
