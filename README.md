@@ -26,4 +26,4 @@ Connecting with facebook, instagram API services for getting Social media data.
 
 Further details can be found here: https://devpost.com/software/sentographic
 
-App Demo: https://youtu.be/AuSz08kPMaw
+App Demo: https://youtu.be/YQi0ISFr7Xw
