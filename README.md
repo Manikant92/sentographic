@@ -25,3 +25,5 @@ Learning Django and connecting to twitter and then newsapi. Learning about vario
 Connecting with facebook, instagram API services for getting Social media data.
 
 Further details can be found here: https://devpost.com/software/sentographic
+
+App Demo: https://youtu.be/AuSz08kPMaw
